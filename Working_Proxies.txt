@@ -7,3 +7,4 @@ trojan://BxceQaOe@18.162.50.252:9149?allowInsecure=1&sni=t.me%252Fripaojiedian# 
 trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@207.126.167.241:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=207.126.167.241# By EbraSha 🩸
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls# By EbraSha 🐺
 trojan://BxceQaOe@16.163.106.209:41889?allowInsecure=1&sni=t.me%2Fripaojiedian# By EbraSha 🧠
+trojan://BxceQaOe@18.163.186.129:11035?allowInsecure=1&sni=t.me%2Fripaojiedian# By EbraSha ⚙️
