@@ -1,5 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzZy1wcm94eS0yMDI2@43.173.90.202:8388#unitedStates
-vless://XpnTeam-13@199.232.78.170:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#unitedStates1
-vless://My-chanel-Telegram-ATOVPN @167.104.219.193:40185?security=&encryption=none&headerType=&type=tcp#türkiye
-vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@45.58.126.92:8444?security=reality&encryption=none&pbk=OyUyHy3-04xKvFMvAzUbiVf7tkWX2a_gC2E_sEHGVw8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nbcnews.com&sid=08#unitedStates2
-vless://b5172efe-cf5e-4484-971d-2860bdb95ab1@nl1z.starzone.ir:38479?security=none&encryption=mlkem768x25519plus.native.0rtt.Or4eEsj1FJcH48RwDRjG21ZC7mbZ6wamN6k4i7viXCw&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#theNetherlands
+vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@185.20.137.118:443?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#finland
+vless://6c7614ff-88c9-47cd-a66c-103741109d00@185.189.58.195:38353?encryption=none&security=tls&sni=185.189.58.195&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#germany
+vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@45.58.126.92:8444?security=reality&encryption=none&pbk=OyUyHy3-04xKvFMvAzUbiVf7tkWX2a_gC2E_sEHGVw8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nbcnews.com&sid=08#unitedStates
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@144.31.214.172:9443?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=storage.yandexcloud.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=ad20d2bc#france
