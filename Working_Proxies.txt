@@ -1,6 +1,5 @@
 vless://9e9fd625-e4d7-4944-ae7e-4145342fa5db@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#unitedStates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?type=tcp#southAfrica
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.247.104:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#russia
 vless://c5cfb08f-e42d-4a08-94e1-4f591a2f7a6f@109.94.164.85:20410?encryption=none&type=tcp&security=reality&sni=secureconnect-pa.mtls.clients6.google.com&fp=chrome&pbk=BErODvy5h6Cjw5zWfX_CZ5ODH9p1XbZwU-ZEHyVXEGI&sid=e2ce3e050232978c&allowInsecure=1#iran
 vless://c5cfb08f-e42d-4a08-94e1-4f591a2f7a6f@g4.haxat.bestvbest.ir:56126?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=oNv1vk-DHPrbFy__k2B7Am2lTtKfW4dXM7shzi7VFyk&sid=228b68f87a662053&allowInsecure=1#iran1
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@13.158.67.183:33561/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=158SMilJQo8T-Fi8-T1354xZsVFCYxA8dXQstKbIdVs&sid=6b9e61372a82002c#japan
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@13.230.30.102:38830/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=5E5p5boHrgCyBlt5qZPX1XozU9I90JoBgS4zmXngllI&sid=ac12ed79#japan1
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@13.230.30.102:38830/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=5E5p5boHrgCyBlt5qZPX1XozU9I90JoBgS4zmXngllI&sid=ac12ed79#japan
