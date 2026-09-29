@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?type=tcp#southAfrica
 vless://6b1c48bc-55d3-43ee-90d4-7b8404e05e52@178.104.219.134:9443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#germany
 vless://b933673c-9d0b-4326-bbde-42923bc866d3@91.107.174.119:7443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#germany1
