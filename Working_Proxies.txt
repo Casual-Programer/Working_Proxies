@@ -1,1 +1,2 @@
-vless://c3eff979-517d-4f8e-bf14-5cd6b92a0999@104.24.183.2:2087?encryption=none&type=ws&host=loop.shaw-gsm.com&path=/gsm-mobile-9297dh2&security=tls&sni=kop.shaw-gsm.com&fp=chrome#canada
+vless://2e8cd1fa-0dcc-4402-bb99-be3d623fc1d5@fast.jkerm.com:443?path=/&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#unitedStates
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.165.25:9881?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#russia
