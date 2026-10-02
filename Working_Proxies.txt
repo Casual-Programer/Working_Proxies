@@ -1,1 +1,1 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.202.50:62145?&sni=158.101.202.50&type=tcp&headerType=none&path=%2F#netherlands
+vless://bfb1ec97-a326-4cf3-adcf-d2a0e2dc49f8@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#unitedStates
