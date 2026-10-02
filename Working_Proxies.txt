@@ -1,2 +1,1 @@
-vless://ac76a374-7447-4dab-bfa9-b7f83a7a7946@152.69.192.144:20802?&type=tcp&headerType=none&path=%2F#japan
-vless://bfb1ec97-a326-4cf3-adcf-d2a0e2dc49f8@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#unitedStates
+vless://c3eff979-517d-4f8e-bf14-5cd6b92a0999@104.24.183.2:2087?encryption=none&type=ws&host=loop.shaw-gsm.com&path=/gsm-mobile-9297dh2&security=tls&sni=kop.shaw-gsm.com&fp=chrome#canada
