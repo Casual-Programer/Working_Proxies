@@ -1,5 +1,1 @@
 vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?path=/&security=tls&encryption=none&host=pannn1.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#unitedStates
-vless://8e8ea5d2-6941-40fb-9efe-f9062b11b2b9@213.171.31.34:5002?&security=tls&fp=android&sni=us.centermass.net&type=ws&headerType=none&path=media.playback.v1.SessionGateway#russia
-vless://2e8cd1fa-0dcc-4402-bb99-be3d623fc1d5@fast.jkerm.com:443?path=/&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#unitedStates1
-vless://7078e8e7-94d0-4736-97cd-b981419a41ef@e1.fpradius.com:443?security=reality&encryption=none&pbk=m4JHYv4-6BFQRZ2t_ppxd1iJipAHPqeNLC45_DrU-Tw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=e1.fpradius.com&sid=5b371a200959399f#estonia
-vless://8e8ea5d2-6941-40fb-9efe-f9062b11b2b9@82.202.157.123:5003?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.fr&sid=e7#russia1
