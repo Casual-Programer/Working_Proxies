@@ -1,1 +1,3 @@
 vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?path=/&security=tls&encryption=none&host=pannn1.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#unitedStates
+vless://2e8cd1fa-0dcc-4402-bb99-be3d623fc1d5@fast.jkerm.com:443?path=/&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#unitedStates1
+vless://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@tyo-a-02.auuas.com:1891?security=reality&encryption=none&pbk=O7lEfntqflgUugTLJmJNv8qw9Qe0tagUlyDwS3yY4Uo&host=www.npmjs.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.npmjs.com&sid=8378f267#japan
