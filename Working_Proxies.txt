@@ -1,5 +1,2 @@
 vless://bfb1ec97-a326-4cf3-adcf-d2a0e2dc49f8@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#unitedStates
 vless://2e8cd1fa-0dcc-4402-bb99-be3d623fc1d5@fast.jkerm.com:443?path=/&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#unitedStates1
-vless://5bba3558-ad1c-4d97-a360-7d993d503abd@files-d1c1.julsapart.com:30007?security=reality&encryption=none&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=54861d36#russia
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.165.25:9881?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#russia1
-vless://e86ba41f-f2c4-4773-a6da-6534f12163bb@unitedsa2.fastddns.org:443?path=/gbV2rcwZ?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=unitedsa2.fastddns.org&fp=chrome&type=ws&allowInsecure=0&sni=unitedsa2.fastddns.org#armenia
