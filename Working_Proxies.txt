@@ -1,6 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozakJYT0hjS21IUHNsSGpkS25naW51eVl3blJ4aGJIaXNkUUtqUDJYaWRnPQ@e2.cover20.ir:30874?type=tcp#iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#southAfrica
 vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none#netherlands
-vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@62.3.42.164:443?security=reality&encryption=none&pbk=S8QyU-Zh_GLc5dJg9jPaPVq-PBq3xRcN1EX9DmyfRQ0&headerType=none&fp=chrome&spx=/218a20578138fba&type=tcp&sni=numberland.ir&sid=c78b#iran1
-vless://a95c18d0-1b39-4bc7-8521-b62b5ab3f3f7@fun.zovip2.ir:443?path=/gropcdn&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=toping.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=toping.zovip2.ir#germany
-vless://eb022475-2c2b-49ee-a482-56e9c71eca8c@sub.sd.noafra.ir:6586?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#germany1
