@@ -1,4 +1,3 @@
-vless://2a6ac8b1-a485-49d2-97be-20d2759312e2@latvia.zovip2.ir:443?path=/api/v3/pulse&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tr7.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=tr7.zovip2.ir#theNetherlands
 vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@tanl.vudfaro.ir:5064?security=&encryption=none&headerType=none&type=tcp#iran
 vless://98aa35fc-7d2f-4744-a91b-7e33b4fdd9c8@91.107.243.131:465?encryption=none&security=tls&sni=hw14.roghanmo.com&type=ws&host=hw14.roghanmo.com&path=/#germany3
 vless://98aa35fc-7d2f-4744-a91b-7e33b4fdd9c8@hw14.roghanmo.com:465?&security=tls&fp=chrome&alpn=http/1.1&sni=hw14.roghanmo.com.&type=ws&headerType=&host=hw14.roghanmo.com.&path=/#germany4
@@ -78,18 +77,18 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:
 vless://1ca12389-0d86-4197-a79a-49d24539ce05@p11real1.greewebservices.ir:1020?encryption=none&pbk=xwbp4EcOtus1W5Au4XCJJbCl9jCb4DwGgYQYEwUDqTY&security=reality&sid=354e34396eaa89ab&sni=play.googleapis.com&type=tcp#bulgaria
 vless://1ca12389-0d86-4197-a79a-49d24539ce05@p11real2.greewebservices.ir:1030?encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=9b60d3&sni=play.googleapis.com&type=tcp#bulgaria1
 vless://f016bc0f-5309-4782-ac19-4093f20e08d7@uk1.0a0.uk:443?security=reality&encryption=none&pbk=NGQ8m89DupgsVe5xcm6CZrbaoamSwwRznBxL4-2zAn0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=8ed1838f4bbce68f#unitedKingdom
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f9:c012:bad8::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇫🇮 Finland12 - IPV6
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f9:c011:940f::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇫🇮 Finland15 - IPV6
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c1a:40ec::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany61 - IPV6
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c1b:ddf6::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany43 - IPV6
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c1c:298::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany33 - IPV6
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany-fr18
-vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=de.stream-node6.com&sid=98753667b2406829#%F0%9F%87%AF%F0%9F%87%B5%20Japan-fr28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr37
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr50
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.83.85:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany-fr71
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr143
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#%F0%9F%87%B5%F0%9F%87%B1%20Poland-fr112
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr140
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr24
+vless://0809eed6-5204-49b8-8312-b82a10024022@94.249.195.239:43000?encryption=none&security=reality&fp=chrome&pbk=U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI&sid=8cfe1563&spx=/&flow=xtls-rprx-vision#germany
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:c0c:fc8f::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany117 - IPV6
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c19:4615::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany151 - IPV6
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c19:638e::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany151 - IPV6
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f9:c015:32b3::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇫🇮 Finland46 - IPV6
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr154
+vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?security=reality&encryption=none&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=1d86d17709852910#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr117
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@9.247.23.209:443?encryption=none&type=tcp&security=reality&headerType=none&sni=mother-earth.fyi&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France-fr90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr84
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#%F0%9F%87%A6%F0%9F%87%B9%20Austria-fr50
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr189
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#%F0%9F%87%AB%F0%9F%87%B7%20France-fr135
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.201.129:19999#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom-fr109
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr10
