@@ -1,5 +1,3 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.237:443?security=tls&sni=cdn.explorecreativejobsandenhanceyourcareerportfolio.com#unitedStates
-vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5051?security=&encryption=none&headerType=none&type=tcp#germany
 vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5061?security=&encryption=none&headerType=none&type=tcp#germany1
 vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:5071?security=none&encryption=none&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&headerType=none&type=tcp#germany2
 vless://7df4f23f-b361-412a-883a-54dfdb5b8c8f@bot.vudfaro.ir:844?encryption=none&security=none&type=tcp#germany3
@@ -78,17 +76,19 @@ vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?Telegram=@Gozarg
 vmess://eyJhZGQiOiIxMTYuODguMjI0LjIxNyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI2ZjRmMGViNS1mZTg2LTQxY2EtZWNjYi1hNmNhNjhmODhkOWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6InNpbmdhcG9yZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI5NC4xODQuMTguMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ1ZGM1MDg2LWYzMGQtNGIzNC1hYWM0LTYxMmMwNzQyNDNjOCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ1ODAiLCJwcyI6ImlyYW4xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDA4NiIsInBzIjoic2luZ2Fwb3JlMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:c0c:c2f4::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany112 - IPV6
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c18:4851::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany99 - IPV6
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c0c:4a48::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany100 - IPV6
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:c0c:accd::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany142 - IPV6
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr166
-trojan://5t6i121em5lkmsmk@de001.zestapp778.com:51520?security=tls&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany-fr59
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr186
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr58
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr50
-vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr156
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr91
-vless://90157e25-cee1-4217-921e-91f300bc1a24@89.105.218.143:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=golos.mail.ru&security=reality&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr79
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr11
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@176.108.246.180:443?security=reality&encryption=none&pbk=bI1SEAWZtr6q-fHL3mxwpU0ki8DdLcR7vOItA15eA24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apsnl.yandex-api.com#russia
+vless://b2a6fb02-d9fa-43d6-b220-10dcacc36512@95.182.93.43:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=docs.google.com&fp=chrome&pbk=nCiIB8BmrCGzwms7sf0CBcz6VTzhXemuChdO5V_SnD4&sid=1901f7857cb99487&type=tcp&headerType=none#unitedStates
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c16:b80f::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany23 - IPV6
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f9:c012:8121::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇫🇮 Finland65 - IPV6
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c19:24bf::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany134 - IPV6
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c16:7a88::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany24 - IPV6
+vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@193.233.127.149:443?security=tls&sni=nep.qiksme.com&fp=firefox&type=xhttp&path=/static/js/chunk&host=nep.qiksme.com&mode=stream-one&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr154
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.137.99.183:19999#%F0%9F%87%AB%F0%9F%87%B7%20France-fr86
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany-fr70
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.156:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr8
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr168
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany-fr42
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr16
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy-fr54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr85
+vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.151:443?encryption=none&security=tls&sni=assets.mediacorphub.org&fp=firefox&type=grpc&authority=&serviceName=hub.v1.ObjectService&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-fr137
