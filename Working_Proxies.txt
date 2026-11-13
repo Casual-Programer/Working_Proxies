@@ -1,7 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Wk1OVEdwUGwzOEFTbGJJMUVLT0JK@135.220.178.46:46303#germany
-vless://0d2d64a3-1d92-4c65-b293-d5a648d2b078@81.12.35.127:45903?type=tcp&security=none&headerType=none&encryption=none#iran1
-vless://b11716c2-6d11-4752-b2bf-ac240b0136e4@duke.abrdns.com:8443?encryption=none&security=reality&sni=snapp.ir&fp=chrome&pbk=5wTeknadiZ3XFJA2bAe1ee5pkx-KL_3Wh8dZRzkonUQ&sid=278eba2e20817876&type=tcp&headerType=none#theNetherlands
-vless://1ca12389-0d86-4197-a79a-49d24539ce05@p1real3.greewebservices.ir:1250?security=reality&type=tcp&sni=play.googleapis.com&fp=chrome&sid=9b60d3&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&encryption=none#bulgaria3
 vmess://eyJhZGQiOiI5NC4xODQuMTguMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ1ZGM1MDg2LWYzMGQtNGIzNC1hYWM0LTYxMmMwNzQyNDNjOCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ1ODAiLCJwcyI6ImlyYW4yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?path=/vless&security=&encryption=none&host=5.178.109.174&type=ws#sweden
 vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#unitedStates
@@ -78,15 +74,20 @@ vless://b6da1396-cfa7-421c-92b6-8bc947f0d308@n8.hyby.ir:1468?security=none&encry
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?security=reality&encryption=none&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=psstatic.cdn.bcebos.com&sid=6a60e7e382d6#singapore
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:47691?security=reality&encryption=none&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.media-amazon.com&sid=2905326a#japan
 vmess://eyJhZGQiOiJ6ZmQtaGt2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYxMTIiLCJwcyI6ImhvbmdLb25nIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c1a:b85f::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany107 - IPV6
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c16:b80f::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany15 - IPV6
-vless://90157e25-cee1-4217-921e-91f300bc1a24@novonl.subv.ru:443?fp=firefox&flow=xtls-rprx-vision&type=tcp&sid=428ef87fd47a3a32&security=reality&spx=%2F&sni=golos.mail.ru&headerType=none&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands10
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sundaylanzgem.site&fp=ios&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20USA2
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?security=reality&encryption=none&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sundaylanzgem.site#%F0%9F%87%BA%F0%9F%87%B8%20USA45
-vless://d8ac7cf9-0d76-4c2f-a259-d0f0bea7a3f8@109.70.74.18:8443?security=reality&encryption=none&pbk=8XaCRUFO7OkeBGgHi5rZAlGKTbmAiqzx-QfehkIwkyg&headerType=none&fp=chrome&spx=%2Fe8930c2f177f6a3&type=tcp&sni=blog.api.www.cloudflare.com&sid=fe24c652d01e#%F0%9F%87%A9%F0%9F%87%AA%20Germany7
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@151.241.19.29:19999#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080?#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands6
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&spx=/HesarWeb#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands5
-vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@95.85.232.83:2087?fp=edge&sid=3258252d44113e23&encryption=none&type=xhttp&sni=trips.blog-forme.ru&path=%2Fv2%2Fsync%2F6e9367&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&security=reality&host=trips.blog-forme.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany3
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@185.176.204.18:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany20
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@193.108.119.83:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany23
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.175.123.65:443#unitedKingdom
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6ckcxdWg1TXkyczhKeXR0NG91U3Y2OGxqb1EraU5wSFQ5bXkvblJndFBBbz0@178.239.150.72:12947#iran1
+vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@hedgerow.moltex.click:443?encryption=none&type=ws&security=tls&sni=grove.moltex.click&fp=chrome&alpn=http/1.1&path=/api/de6/stream&host=grove.moltex.click#russia
+vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@n1.topingr.ir:443?path=/api/v3/pulse&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn2.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.zovip2.ir#unitedStates
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c0c:6985::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany159 - IPV6
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c16:7a2f::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany116 - IPV6
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c1a:8f36::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany145 - IPV6
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c19:3f46::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany130 - IPV6
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c1f:bb54::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany152 - IPV6
+vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=de.stream-node6.com&sid=98753667b2406829#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands23
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands42
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.189:19999#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands26
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@193.108.118.247:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany15
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@151.241.19.29:19999#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands12
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.18.38.33:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany20
+vless://58ec8bba-fb99-4840-805c-1871cbec26f3@51.77.144.182:8080?security=reality&encryption=#%F0%9F%87%AB%F0%9F%87%B7%20France1
