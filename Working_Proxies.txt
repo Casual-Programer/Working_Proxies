@@ -1,5 +1,3 @@
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#taiwan
-vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOiIwIiwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTYyODAiLCJwcyI6ImhvbmdLb25nIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://401c23eb-191b-4934-abb4-4a277d5870ba@out2.amirport.ir:82?encryption=none&security=none&type=tcp&headerType=none#unitedStates
 vless://038e6b17-84e9-4ace-8973-8ef2308ed6e1@fin-2.beinprime.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a&fp=chrome#unitedStates
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0=@18.130.78.177:443#unitedKingdom
@@ -78,18 +76,17 @@ trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20103?secu
 vless://6741bf3d-8a92-45f1-8fb2-4a456b1c8be3@189.24.115.57:443?security=reality&flow=xtls-rprx-vision&pbk=AhDERBTHDZpZw7mNp8ZQTGtO4QzQxJdXC--msHTQHnA&sid=2261e95185893b80&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=/#germany
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:19482?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&type=tcp&headerType=none#taiwan
 vmess://eyJhZGQiOiJ6ZmQtaGt2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDgwMmFjMDMtNzk3My0zOWVmLWEwMTktYmEwMmRlNmMwMWUxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNjExMiIsInBzIjoiaG9uZ0tvbmcxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:c0c:42fe::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany110 - IPV6
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f9:c01d:30c6::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇫🇮 Finland158 - IPV6
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:c0c:eeb2::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany35 - IPV6
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c0c:68f4::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany70 - IPV6
-vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:c2c:a97e::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany171 - IPV6
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.76.233:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany4
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@38.114.120.221:19999#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom17
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.117.84:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany10
-vless://7d43670b-6b08-45b9-8a24-8f3971abc132@poland.biznes.lol:443?security=reality&encryption=none&pbk=j4Uc6ljg9by_VKYywo5h2N-eh3kpUbFL5Bsp8-AX4Qk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.biznes.lol#%F0%9F%87%B5%F0%9F%87%B1%20Poland40
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands50
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjE2NTo0NDM=#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands15
-vless://a346c521-7a7f-452b-9356-a4893feb5982@48.103.231.2:443?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee1-r.bankai.party&sid=457fab2ac885dbe0#%F0%9F%87%AA%F0%9F%87%AA%20Estonia27
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080?#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands38
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland33
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01&path=%2FXIXVPN%3Fed%3D2560#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands43
+vmess://eyJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6Ijk0NjRjYTQwLWRkNzUtMzc0Mi1hNjI4LWQ5MzFhOWY0MTNiMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIxMDIyIiwicHMiOiJob25nS29uZzEiLCJzY3kiOiJhdXRvIiwic25pIjpudWxsLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjoiTm9uZSJ9
+vmess://eyJhZGQiOiJ6ZmQtaGt2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDgwMmFjMDMtNzk3My0zOWVmLWEwMTktYmEwMmRlNmMwMWUxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNjExMiIsInBzIjoiaG9uZ0tvbmcyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c19:3903::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany51 - IPV6
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:1c0c:6792::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany78 - IPV6
+vless://555c177a-d806-4e8d-bbc3-7c01e4c5d973@[2a01:4f8:c2c:f2b5::1]:51926?encryption=mlkem768x25519plus.native.0rtt.iP6t9L9w7FUsFjEmjng6ILDTZZoxk5KRnYxWFJ6Ah2k&security=none&type=tcp#🇩🇪 Germany296 - IPV6
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fuck.rkn&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands34
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@151.241.19.36:19999#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands2
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@178.162.254.38:8388?#%F0%9F%87%A9%F0%9F%87%AA%20Germany20
+vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#%F0%9F%87%AB%F0%9F%87%B7%20France32
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999?#%F0%9F%87%A9%F0%9F%87%AA%20Germany7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.109.228.110:19999#%F0%9F%87%AB%F0%9F%87%B7%20France49
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@23.166.88.127:19999#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland19
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy11
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.3:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany31
